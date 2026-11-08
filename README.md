@@ -2,7 +2,6 @@
 
 I'm a software developer and data scientist in Los Angeles, working on AI and data projects. I build LLM features for applications, evaluate AI model outputs, and train machine learning models.
 
-- At **GW Apps** I work as a Software Developer on AI integrations: record summarization, text categorization and document data extraction with LLMs.
 - I'm pursuing an **MSc in Artificial Intelligence and Computer Science** at the University of Calabria, Italy. My BSc in Computer Science is from Mekelle University, Ethiopia.
 - I completed the **Udacity Future AWS Agent Engineer** program: agents and workflows on Amazon Bedrock, AgentCore, Lambda and DynamoDB.
 - I also work as an AI trainer and evaluator through Handshake AI.
