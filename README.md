@@ -1,6 +1,6 @@
 # Hi, I'm Tsion Ebuy
 
-I'm a software developer and data scientist in Los Angeles, working on AI and data projects. I build LLM features for applications, evaluate AI model outputs, and train machine learning models.
+I’m a data professional in Los Angeles, working on AI and data projects. I build LLM features for applications, evaluate AI model outputs, and train machine learning models.
 
 - I'm pursuing an **MSc in Artificial Intelligence and Computer Science** at the University of Calabria, Italy. My BSc in Computer Science is from Mekelle University, Ethiopia.
 - I completed the **Udacity Future AWS Agent Engineer** program: agents and workflows on Amazon Bedrock, AgentCore, Lambda and DynamoDB.
@@ -23,4 +23,4 @@ I'm a software developer and data scientist in Los Angeles, working on AI and da
 
 ## Contact
 
-Los Angeles, California. Find me on LinkedIn: add your link here.
+Los Angeles, California. Find me on LinkedIn: https://www.linkedin.com/in/tsion-ebuy/.
