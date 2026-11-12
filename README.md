@@ -5,6 +5,7 @@ I’m a data professional in Los Angeles, working on AI and data projects. I bui
 - I'm pursuing an **MSc in Artificial Intelligence and Computer Science** at the University of Calabria, Italy. My BSc in Computer Science is from Mekelle University, Ethiopia.
 - I completed the **Udacity Future AWS Agent Engineer** program: agents and workflows on Amazon Bedrock, AgentCore, Lambda and DynamoDB.
 - I also work as an AI trainer and evaluator through Handshake AI.
+- In 2024 I was a research intern on a UCLA project on agricultural water management using AI. As the sole data analyst, I cleaned the data with Python and Pandas and built dashboards in Power BI and Matplotlib.
 
 ## Projects
 
@@ -19,7 +20,7 @@ I’m a data professional in Los Angeles, working on AI and data projects. I bui
 
 **Languages and data:** Python, SQL, pandas, scikit-learn, Excel (VBA macros)
 **AI and cloud:** LLM integration, prompt design, AI evaluation, Amazon Bedrock, AWS Lambda, DynamoDB
-**Data engineering and BI:** PostgreSQL, Pentaho (ETL), Tableau
+**Data engineering and BI:** PostgreSQL, Pentaho (ETL), Tableau, Power BI
 **Mobile:** Flutter
 
 ## Contact
